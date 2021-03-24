@@ -1,4 +1,7 @@
-Hello this is my samurai tribute page.
-It has had some issues i had to delete and repost it to github after errors caused be my username change whic is sad becuase i prefer my old one but it isnt workplace allowed.
-view at  https://jimmypcoleman.github.io/Samurai-Tribute-Page/.
-I hope you enjoy.
+This is a reupload of my original project it was made for Free Code Camp.
+
+It had to be deleted because reuploading was faster than dealing with changing the remote url as i messed that up its sad i lost the commit timeline though as you can no longer see how the code developed over the week.
+
+This is my samurai tribute page.
+
+view at https://jimmypcoleman.github.io/Samurai-Tribute-Page/
