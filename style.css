@@ -1,0 +1,31 @@
+#main {
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    background-color:black;
+    color: red;
+    text-align: center;
+}
+#img-div { 
+    text-align: center;
+}
+#image {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 50%;
+    border: 20px solid red;
+}
+#img-caption {
+    color: yellow;
+}
+#tribute-info {
+    color: red;
+}
+#v-div{
+    color: yellow;
+}
+footer {
+    color: red;
+}
+body {
+    background-color: black;
+}
